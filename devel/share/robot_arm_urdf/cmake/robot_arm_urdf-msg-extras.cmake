@@ -1,0 +1,1 @@
+/home/stpp/moveit_ws/devel/.private/robot_arm_urdf/share/robot_arm_urdf/cmake/robot_arm_urdf-msg-extras.cmake

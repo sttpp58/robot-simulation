@@ -1,0 +1,1 @@
+/home/stpp/moveit_ws/devel/.private/robot_arm_urdf/share/common-lisp/ros/robot_arm_urdf/msg/robot_arm_urdf-msg.asd

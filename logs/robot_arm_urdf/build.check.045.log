@@ -1,0 +1,8 @@
+[31m[1mCMake Error[0m at /home/stpp/moveit_ws/src/robot_arm_urdf/CMakeLists.txt:27:
+  Parse error.  Function missing ending ")".  End of file reached.
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/stpp/moveit_ws/build/robot_arm_urdf/CMakeFiles/CMakeOutput.log".
+See also "/home/stpp/moveit_ws/build/robot_arm_urdf/CMakeFiles/CMakeError.log".
+make: *** [Makefile:796: cmake_check_build_system] Error 1

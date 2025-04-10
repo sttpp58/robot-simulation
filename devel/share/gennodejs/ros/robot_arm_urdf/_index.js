@@ -1,0 +1,1 @@
+/home/stpp/moveit_ws/devel/.private/robot_arm_urdf/share/gennodejs/ros/robot_arm_urdf/_index.js

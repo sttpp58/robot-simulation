@@ -1,0 +1,5 @@
+<launch>
+  <param name="robot_description" command="$(find xacro)/xacro $(find YOUR_PACKAGE_NAME)/urdf/stepper_gazebo.urdf"/>
+  <node name="gazebo" pkg="gazebo_ros" type="gazebo" args="-urdf -paused" />
+</launch>
+

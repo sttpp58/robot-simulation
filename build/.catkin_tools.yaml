@@ -1,0 +1,6 @@
+devel_space: /home/stpp/moveit_ws/devel
+install: false
+install_space: /home/stpp/moveit_ws/install
+profile: default
+source_space: /home/stpp/moveit_ws/src
+workspace: /home/stpp/moveit_ws

@@ -1,0 +1,4 @@
+<launch>
+    <!-- Run stepper_commander.py -->
+    <node name="stepper_commander" pkg="my_robot_control" type="stepper_commander.py" output="screen"/>
+</launch>

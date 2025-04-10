@@ -1,0 +1,13 @@
+[  0%] Built target robot_arm_urdf_xacro_generated_to_devel_space_
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _robot_arm_urdf_generate_messages_check_deps_StepperCommand
+[ 28%] Built target robot_arm_urdf_generate_messages_py
+[ 57%] Built target robot_arm_urdf_generate_messages_cpp
+[ 57%] Built target robot_arm_urdf_generate_messages_nodejs
+[ 85%] Built target robot_arm_urdf_generate_messages_eus
+[100%] Built target robot_arm_urdf_generate_messages_lisp
+[100%] Built target robot_arm_urdf_generate_messages
